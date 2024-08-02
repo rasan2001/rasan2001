@@ -18,7 +18,7 @@ I am a cyber security undergraduate student at SLIIT, seeking an internship. My 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rasan dushmantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasan dushmantha" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/rasan-dushmantha-711b14289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasan dushmantha" height="30" width="40" /></a>
 <a href="https://fb.com/rasan dushmantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rasan dushmantha" height="30" width="40" /></a>
 <a href="https://instagram.com/rasan dushmantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rasan dushmantha" height="30" width="40" /></a>
 </p>
